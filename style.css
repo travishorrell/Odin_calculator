@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    background-color: azure;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.content{
+    display: flex;
+    width: 1024px;
+    height: 768px;
+    border: 2px solid black;
+}
+
+.mainBody{
+    display: flex;
+    justify-content: space-around;
+    
+}
